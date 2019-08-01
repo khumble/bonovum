@@ -73,17 +73,31 @@
             <h2>Experience</h2>
             <h3>Doing all the things</h3>
             <div class="content">
+            <div class="entry">
+                    <div class="bubble">
+                        <span class="start-date">June 2019</span><span class="end-date">Present</span>
+                    </div>
+                    <div class="data">
+                        <h4>2060 Digital <span class="divider">|</span> <span class="location">Cincinnati, OH</span></h4>
+                        <h5>UI/UX Designer/Developer</h5>
+                        <ul>
+                            <li>Researches and creates user personas and journeys.</li>
+                            <li>Responsible for designing, implementing, and optimizing user experiences for client websites.</li>
+                            <li>Assists in developing processes for client onboarding and web project management.</li>
+                        </ul>
+                    </div>
+                </div>
                 <div class="entry">
                     <div class="bubble">
-                        <span class="start-date">Apr 2018</span><span class="end-date">Present</span>
+                        <span class="start-date">Apr 2018</span><span class="end-date">June 2019</span>
                     </div>
                     <div class="data">
                         <h4>Mike Albert Fleet Solutions <span class="divider">|</span> <span class="location">Cincinnati, OH</span></h4>
                         <h5>User Experience Designer/Developer</h5>
                         <ul>
                             <li>Responsible for designing and implementing screens and user flows for the Overdrive mobile app and client portal website.</li>
-                            <li>Creates user personas for client-facing and public web applications.</li>
-                            <li>Provides design and development support and consulting to the Marketing team for advertising, emails, and websites.</li>
+                            <li>Created user personas for client-facing and public web applications.</li>
+                            <li>Provided design and development support and consulting to the Marketing team for advertising, emails, and websites.</li>
                         </ul>
                     </div>
                 </div>
