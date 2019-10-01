@@ -36,10 +36,12 @@ $("button#to-top").click(function() {
     smoothScroll.animateScroll(0)
 }),
 $(document).ready(function() {
+    var currentYear = new Date().getFullYear();
     window.location.hash && ($(".current").removeClass(),
     $('[href="' + window.location.hash + '"]').addClass("current"),
     smoothScroll.animateScroll(window.location.hash)),
-    $("#logo").fadeIn(3e3)
+    $("#logo").fadeIn(3e3),
+    $('#current-year-argument').html(currentYear)
 }),
 function() {
     function e() {
