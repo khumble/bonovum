@@ -222,6 +222,7 @@ hr{
 }
 .full-width{
     width:100%;
+    height: auto;
     margin:20px 0
 }
 .center{
@@ -353,7 +354,8 @@ footer{
     }
     .container .content #headshot{
         float:none;
-        width:50%;
+        width: 80%;
+        height: auto;
         margin:0 auto;
         display:block
     }
